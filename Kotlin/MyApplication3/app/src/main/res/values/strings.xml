@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gaafer Application</string>
+    <string name="title">Title</string>
+    <string name="your_note_content_goes_here">Your note content goes here.</string>
+    <string name="pick_time">PICK TIME</string>
+    <string name="pick_a_date">PICK DATE</string>
+    <string name="lorem_ipsum_sit_dolore">Lorem ipsum sit dolore</string>
+    <string name="mnu">menu</string>
+    
+    <string name="today">Today</string>
+    <string name="notes">Notes</string>
+    <string name="next_7_days">Next 7 Days</string>
+    <string name="todos">ToDos</string>
+
+    <string name="choose_a_one">Choose A One</string>
+</resources>
